@@ -1,4 +1,4 @@
-ZYBO Z7 – Yocto / PetaLinux Integration
+**ZYBO Z7 – Yocto / PetaLinux Integration**
 
 This repository documents a complete Yocto → PetaLinux → Zybo Z7-7010 workflow demonstrating how to build, package, and boot a custom Linux system on the Xilinx Zynq-7000 SoC.
 
